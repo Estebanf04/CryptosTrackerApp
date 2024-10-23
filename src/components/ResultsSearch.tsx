@@ -21,7 +21,7 @@ export default function ResultsSearch() {
                         <div className="flex flex-col gap-3 md:flex-row md:justify-between w-full px-6 md:pt-2">
                             <div className="text-left md:text-center p-2 text-white ">
                                 <p className="text-lg md:text-xl">{resultsInformationSearch.LOWDAY}</p>
-                                <p className="font-medium text-sm">Lowest price of the day </p>
+                                <p className="font-medium text-sm">Lowest price of the day</p>
                             </div>
                             <div className="text-left md:text-center p-2 md:px-8 rounded-lg shadow-sm text-white shadow-teal-500">
                                 <p className="text-lg md:text-xl font-semibold">{resultsInformationSearch.PRICE}</p>
